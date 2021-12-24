@@ -1,3 +1,5 @@
+# array implementation of stacks
+
 ## 1. push()
 加入元素到top。
 ```c
